@@ -7,4 +7,5 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - samtools
   - trgt
