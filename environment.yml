@@ -8,4 +8,5 @@ dependencies:
   - matplotlib
   - pandas
   - samtools
+  - bcftools
   - trgt
