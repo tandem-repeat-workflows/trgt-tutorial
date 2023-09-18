@@ -4,9 +4,6 @@ channels:
   - bioconda
 dependencies:
   - python=3.10
-  - numpy
-  - matplotlib
-  - pandas
   - samtools
   - bcftools
   - trgt
